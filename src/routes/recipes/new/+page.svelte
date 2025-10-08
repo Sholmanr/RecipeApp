@@ -113,7 +113,7 @@ const supabase = createClient(
     label{
         display: block;
         font-weight: bold; 
-        margin-bottom: 1rem; 
+        margin-bottom: 0.5rem; 
     }
 
     input, textarea{
