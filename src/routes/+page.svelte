@@ -31,6 +31,6 @@ let recipes = []
         padding: 0.5rem 1rem; 
         text-decoration: none; 
         border-radius: 4px; 
-        margin: 1rem 0; 
+        margin: 0.5rem 0; 
     }
 </style>
